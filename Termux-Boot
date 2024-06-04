@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Termux:Boot - Termux Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a42320703e3ca030801512c9","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Termux:Boot","wgTitle":"Termux:Boot","wgCurRevisionId":6304,"wgRevisionId":6304,"wgArticleId":47,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Termux:Boot","wgRelevantArticleId":47,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":
+"loading","skins.tweeki.mediawiki.styles":"ready","skins.tweeki.awesome.styles":"ready","skins.tweeki.styles":"ready","skins.tweeki.externallinks.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.tweeki.messages","skins.tweeki.scripts"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.tweeki.awesome.styles%7Cskins.tweeki.externallinks.styles%7Cskins.tweeki.mediawiki.styles%7Cskins.tweeki.styles&amp;only=styles&amp;skin=tweeki"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=tweeki"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=tweeki"/>
+<meta name="generator" content="MediaWiki 1.40.1"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Termux Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.termux.com/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Termux Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Termux_Boot rootpage-Termux_Boot skin-tweeki action-view tweeki-animateLayout tweeki-non-advanced tweeki-user-anon">			<header>
+				<nav id="mw-navigation" class="navbar navbar-default navbar-fixed-top navbar-expand-lg fixed-top navbar-light bg-light">
+					<div class="container">
+						<a href="/wiki/Main_Page" class="navbar-brand">Termux Wiki</a>
+						<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+						</button>
+
+						<div id="navbar" class="collapse navbar-collapse">
+															<ul class="navbar-nav mr-auto">
+																	</ul>
+							
+															<ul class="navbar-nav">
+									</ul>
+			<form class="navbar-form navbar-right" action="/index.php" id="searchform">
+				<div class="form-inline"><input type="search" name="search" placeholder="Search Termux Wiki" aria-label="Search Termux Wiki" autocapitalize="sentences" title="Search Termux Wiki [f]" accesskey="f" id="searchInput" class="search-query form-control"/><input class="searchButton btn d-none" type="submit" name="go" title="Go to a page with this exact name if it exists" id="mw-searchButton" value="Go"/>
+				</div>
+			</form><ul class="nav navbar-nav navbar-right"><li class="nav-item dropdown"><a href="#" id="n-wiki" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Wiki</a><div class="dropdown-menu dropdown-menu-right"><a href="/wiki/Special:RecentChanges" id="n-recentchanges-url" tabindex="-1" class="dropdown-item">Recent changes</a><a href="/wiki/Termux_Wiki:Content_Guidelines" id="n-termux_wiki%3Acontent_guidelines" tabindex="-1" class="dropdown-item">Content Guidelines</a><a href="/wiki/Special:UserLogin" id="n-special%3Auserlogin" tabindex="-1" class="dropdown-item">Login or Create Account</a></div></li>								</ul>
+													</div>
+					</div>
+				</nav>
+			</header>
+				<main role="main">
+			<div id="mw-page-base"></div>
+			<div id="mw-head-base"></div>
+			<a id="top"></a>
+
+
+			<div id="contentwrapper" class="user-loggedout not-editable container with-navbar with-navbar-fixed">
+
+				<div class="row">
+					<div id="maincontentwrapper" class="col-md-9">
+						
+						<!-- content -->
+						<main role="main">
+									<div class="mw-body" id="content">
+			<div id="mw-js-message" style="display:none;"></div>
+									<h1 id="firstHeading" class="firstHeading page-header" lang="en"><span dir="auto"><span class="mw-page-title-main">Termux:Boot</span></span></h1>
+									<!-- bodyContent -->
+			<div id="bodyContent">
+								<div id="siteSub">From Termux Wiki</div>
+								<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p>This addon will run scripts immediately after device was booted.
+</p>
+<h2><span class="mw-headline" id="Installation">Installation</span></h2>
+<p>Download add-on from <a rel="nofollow" class="external text" href="https://f-droid.org/packages/com.termux.boot/">F-Droid</a>
+</p><p><b>Important: Do not mix installations of Termux and Addons between Google Play and F-Droid.</b> They are presented at these portals for your convenience.  There are compatibility issues when mixing installations from these Internet portals.  This is because each download website uses a specific key for keysigning Termux and <a href="/wiki/Addons" title="Addons">Addons</a>.
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p>1. Install the Termux:Boot app.
+</p><p>2. Go to Android settings and turn off battery optimizations for Termux and Termux:Boot applications.
+</p><p>3. Start the Termux:Boot app once by clicking on its launcher icon. This allows the app to be run at boot.
+</p><p>4. Create the ~/.termux/boot/ directory: Put scripts you want to execute inside the ~/.termux/boot/ directory. If there are multiple files, they will be executed in a sorted order.
+</p><p>5. It is helpful to run termux-wake-lock as first thing to prevent the device from sleeping.
+</p><p>Example: to start an sshd server and prevent the device from sleeping at boot, create the following file at ~/.termux/boot/start-sshd:
+</p>
+<pre>#!/data/data/com.termux/files/usr/bin/sh
+termux-wake-lock
+sshd
+</pre>
+<p>If you want <a href="/wiki/Termux-services" title="Termux-services">Termux-services</a> to start services on boot, you can use:
+</p>
+<pre>#!/data/data/com.termux/files/usr/bin/sh
+termux-wake-lock
+. $PREFIX/etc/profile
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key wiki.termux.com:pcache:idhash:47-0!canonical!groups=* and timestamp 20240602123258 and revision id 6304. Rendering was triggered because: page-view
+ -->
+</div></div>								<div class="printfooter">
+				Retrieved from "<a dir="ltr" href="https://wiki.termux.com/index.php?title=Termux:Boot&amp;oldid=6304">https://wiki.termux.com/index.php?title=Termux:Boot&amp;oldid=6304</a>"				</div>
+												<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>												<div class="visualClear"></div>
+							</div>
+			<!-- /bodyContent -->
+		</div>
+								</main>
+						<!-- /content -->
+					</div>
+
+			<!-- sidebar-right -->
+
+				<div id="sidebar-right" class="col-md-3 sidebar-sticky">
+					<div class="btn-group btn-block dropdown"><a href="/index.php?title=Termux:Boot&amp;action=edit" id="ca-edit" name="ca-edit-ext" class="btn btn-primary" title="Edit this page [e]" accesskey="e"><span class="fa fa-pen"></span> Edit </a><a class="dropdown-toggle dropdown-toggle-split btn btn-primary" href="#" data-toggle="dropdown" aria-haspopup="true"><span class="sr-only">Toggle Dropdown</span></a><div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="/index.php?title=Termux:Boot&amp;action=history" id="ca-history" tabindex="-1" title="Past revisions of this page [h]" accesskey="h">View history</a></div></div><div id="tweekiTOC"></div>				</div>
+
+			<!-- /sidebar-right -->
+						</div>
+			</div>
+		</main>
+
+
+			<footer id="footer" role="contentinfo" class="footer footer-sticky bg-light">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-sm footer-widget"><ul id="footer-places"><li id="footer-places-privacy"><a href="/wiki/Termux_Wiki:Privacy_policy">Privacy policy</a></li><li id="footer-places-about"><a href="/wiki/Termux_Wiki:About">About Termux Wiki</a></li><li id="footer-places-disclaimers"><a href="/wiki/Termux_Wiki:General_disclaimer">Disclaimers</a></li></ul></div><div class="col-12 col-sm footer-widget"><ul id="footer-custom"><li class="dropup"><a href="/index.php?title=Special:UserLogin&amp;returnto=Termux%3ABoot" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li class="dropup"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Termux%3ABoot" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li></ul></div><div class="col-12 col-sm footer-widget"><ul id="footer-icons"><li id="footer-copyrightico"><span><a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</a></span></li><li id="footer-poweredbyico"><span><a href="https://www.mediawiki.org/">Powered by MediaWiki</a></span></li></ul></div>					</div>
+				</div>
+			</footer>
+			</body>
+</html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgPageParseReport":{"limitreport":{"cputime":"0.003","walltime":"0.004","ppvisitednodes":{"value":7,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20240602123258","ttl":86400,"transientcontent":false}}});});</script>
+</body>
+</html>
